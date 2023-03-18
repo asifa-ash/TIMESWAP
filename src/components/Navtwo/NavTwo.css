@@ -1,0 +1,95 @@
+.navtwo{
+    width: 95%;
+    height: 50px;
+   
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: 1.5fr 1fr 1fr;
+   
+    margin-left: 25px;
+    
+    
+}
+.left{
+    display: flex;
+    height: 50px;
+    flex-direction: row;
+  
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+h2{
+    color: white;
+}
+h5{
+    color: white;
+}
+.btn{
+    width: 50px;
+    height: 40px;
+    background: rgb(61, 155, 161);
+    color: white;
+    border-radius: 5px;
+}
+.btn-bar{
+    width: 300px;
+    height: 45px;
+    background: rgb(36, 33, 33);
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.bar-btn{
+    height: 45px; 
+    width: 80px;
+    background: rgb(61, 155, 161);
+    
+    border-radius: 5px;
+    margin-left: -28px;
+}
+.right{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.right-bar{
+width: 400px;
+    height: 45px;
+  
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.btn1{
+    height: 45px;
+    width: 95px;
+    border-radius: 5px;
+    background: rgb(36, 33, 33);
+    color: white;
+
+}
+.btn2{
+    height: 45px;
+    width: 150px;
+    border-radius: 5px;
+    background: rgb(36, 33, 33);
+    color: white;
+}
+.btn3{
+    height: 45px;
+    width: 100px;
+    border-radius: 5px;
+    color: white;
+    background: rgb(36, 33, 33);
+}
+.btn4{
+    height: 45px;
+    border-radius: 5px;
+    background: rgb(36, 33, 33);
+    color: white;
+    font-size: large;
+    font-weight: bold;
+}
