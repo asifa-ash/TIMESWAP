@@ -29,7 +29,7 @@ const NavTwo = () => {
         onClose={() => setModalOpened(false)}
        style={modelStyle}
       >
-      <p>Swap</p>
+      <p className="p">Swap</p>
 <div className="model">
 
   <button className="btnn1"></button>
